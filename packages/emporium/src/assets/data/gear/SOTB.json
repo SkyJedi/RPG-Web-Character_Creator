@@ -348,7 +348,8 @@
     "page": 104,
     "modifier": {
       "strainThreshold": -1
-    }
+    },
+    "cybernetics": true
   },
   "cybereyes": {
     "name": "Cybereyes",
@@ -362,7 +363,8 @@
         "1 Free Rank"
       ],
       "strainThreshold": -1
-    }
+    },
+    "cybernetics": true
   },
   "cyberlimbAgility": {
     "name": "Cyberlimb (Agility)",
@@ -376,7 +378,8 @@
         "1 Free Rank"
       ],
       "strainThreshold": -1
-    }
+    },
+    "cybernetics": true
   },
   "cyberlimbBrawn": {
     "name": "Cyberlimb (Brawn)",
@@ -388,7 +391,8 @@
     "modifier": {
       "Brawn": 1,
       "strainThreshold": -1
-    }
+    },
+    "cybernetics": true
   },
   "cyberHeart": {
     "name": "Cyber Heart",
@@ -400,7 +404,8 @@
     "modifier": {
       "woundThreshold": 2,
       "strainThreshold": -1
-    }
+    },
+    "cybernetics": true
   },
   "cyberLungs": {
     "name": "Cyber Lungs",
@@ -414,7 +419,8 @@
         "1 Free Rank"
       ],
       "strainThreshold": -1
-    }
+    },
+    "cybernetics": true
   },
   "cyberLiver": {
     "name": "Cyber Liver",
@@ -428,7 +434,8 @@
         "1 Free Rank"
       ],
       "strainThreshold": -1
-    }
+    },
+    "cybernetics": true
   },
   "enhancedHearing": {
     "name": "Enhanced Hearing",
@@ -442,7 +449,8 @@
         "1 Free Rank"
       ],
       "strainThreshold": -1
-    }
+    },
+    "cybernetics": true
   },
   "enhancedReflexes": {
     "name": "Enhanced Reflexes",
@@ -459,7 +467,8 @@
         "1 Free Rank"
       ],
       "strainThreshold": -1
-    }
+    },
+    "cybernetics": true
   },
   "skulljack": {
     "name": "Skulljack",
@@ -479,7 +488,8 @@
         "1 Free Rank"
       ],
       "strainThreshold": -1
-    }
+    },
+    "cybernetics": true
   },
   "spinalModem": {
     "name": "Spinal Modem",
@@ -500,7 +510,8 @@
         "1 Free Rank"
       ],
       "strainThreshold": -1
-    }
+    },
+    "cybernetics": true
   },
   "painEditor": {
     "name": "Pain Editor",
@@ -511,7 +522,8 @@
     "page": 106,
     "modifier": {
       "strainThreshold": -1
-    }
+    },
+    "cybernetics": true
   },
   "subdermalArmor": {
     "name": "Sub-Dermal Armor",
@@ -523,7 +535,8 @@
     "modifier": {
       "soak": 1,
       "strainThreshold": -1
-    }
+    },
+    "cybernetics": true
   },
   "catClaws": {
     "name": "Cat Claws",
